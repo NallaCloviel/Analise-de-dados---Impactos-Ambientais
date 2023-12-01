@@ -40,9 +40,9 @@ Investigar como os impactos afetam as mulheres na África Subsaariana nas áreas
 Linguagem python e suas bibliotecas e Tableu public.
 
 ##### Referências
-Ecodebate. Racismo Ambiental: as consequências da desigualdade socialmbiental para comunidades marginalizadas; CEE FioCruz. Disponível em: https://cee.fiocruz.br/?q=racismo-ambiental-as-consequencias-da-desigualdade-socioambiental-para-as-comunidades-marginalizadas>. Acesso em 30de outubro de 2023.
+##### Ecodebate. Racismo Ambiental: as consequências da desigualdade socialmbiental para comunidades marginalizadas; CEE FioCruz. Disponível em: https://cee.fiocruz.br/?q=racismo-ambiental-as-consequencias-da-desigualdade-socioambiental-para-as-comunidades- marginalizadas>. Acesso em 30de outubro de 2023.
 
-DUARTE, Karina Andrade. Desigualdade Ambiental; Recicla.se. Disponível em: <https://recicla.se/recicle/desigualdade-ambiental/>. Acesso em 30 de outubro de 2023.
+##### DUARTE, Karina Andrade. Desigualdade Ambiental; Recicla.se. Disponível em: <https://recicla.se/recicle/desigualdade-ambiental/>. Acesso em 30 de outubro de 2023.
 
 
 
