@@ -1,0 +1,463 @@
+,Indicator Name,Indicator Code,Country Name,Country Code,Year,Value,Disaggregation
+0,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Africa Eastern and Southern,AFE,2016,37.3738911376186,female
+1,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Africa Western and Central,AFW,2016,56.1648049891829,female
+2,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Arab World,ARB,2016,7.92806130237215,female
+3,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Caribbean small states,CSS,2016,0.846019287431191,female
+4,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Central Europe and the Baltics,CEB,2016,0.186686676460221,female
+5,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,EAR,EAR,2016,14.9520916427393,female
+6,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,East Asia & Pacific,EAS,2016,2.16911123726377,female
+7,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,East Asia & Pacific (excluding high income),EAP,2016,2.3301514586327,female
+8,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,East Asia & Pacific (IDA & IBRD),TEA,2016,2.34598303738526,female
+9,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Euro area,EMU,2016,0.340992907802233,female
+10,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Europe & Central Asia,ECS,2016,0.314167648046483,female
+11,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Europe & Central Asia (excluding high income),ECA,2016,0.333373328205757,female
+12,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Europe & Central Asia (IDA & IBRD),TEC,2016,0.314765747522483,female
+13,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,European Union,EUU,2016,0.312378831799056,female
+14,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Fragile and conflict affected situations,FCS,2016,38.3618482341072,female
+15,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Heavily indebted poor countries (HIPC),HPC,2016,39.3059576378276,female
+16,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,High income,HIC,2016,0.365907371383313,female
+17,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,IBRD only,IBD,2016,7.56675157649987,female
+18,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,IDA & IBRD total,IBT,2016,14.3355023751209,female
+19,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,IDA blend,IDB,2016,40.03454473414,female
+20,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,IDA only,IDX,2016,30.9034584688585,female
+21,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,IDA total,IDA,2016,33.9234508218009,female
+22,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,LTE,LTE,2016,0.803686612607543,female
+23,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Latin America & Caribbean,LCN,2016,1.59847915263487,female
+24,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Latin America & Caribbean (excluding high income),LAC,2016,1.66424305379414,female
+25,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Latin America & Caribbean (IDA & IBRD),TLA,2016,1.61112838932467,female
+26,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Least developed countries: UN classification,LDC,2016,33.4510430591118,female
+27,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,LMY,LMY,2016,14.5294802765662,female
+28,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Low income,LIC,2016,38.4303944432143,female
+29,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Lower middle income,LMC,2016,21.3015643834811,female
+30,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Middle East & North Africa,MEA,2016,2.40396998491394,female
+31,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Middle East & North Africa (excluding high income),MNA,2016,2.71219347361854,female
+32,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Middle East & North Africa (IDA & IBRD),TMN,2016,2.71219347361854,female
+33,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,MIC,MIC,2016,11.9648796095474,female
+34,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,North America,NAC,2016,0.310027890004341,female
+35,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,OECD members,OED,2016,0.451188945520679,female
+36,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Other small states,OSS,2016,17.6738055412654,female
+37,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Pacific island small states,PSS,2016,4.74208281261737,female
+38,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,PST,PST,2016,0.379299663972242,female
+39,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,PRE,PRE,2016,46.3486521856989,female
+40,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Small states,SST,2016,13.6971826942623,female
+41,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,South Asia,SAS,2016,20.6794031841345,female
+42,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,South Asia (IDA & IBRD),TSA,2016,20.6794031841345,female
+43,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Sub-Saharan Africa,SSF,2016,44.9203478103529,female
+44,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Sub-Saharan Africa (excluding high income),SSA,2016,44.9242326163203,female
+45,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Sub-Saharan Africa (IDA & IBRD),TSS,2016,44.9203478103529,female
+46,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Upper middle income,UMC,2016,1.85583383080212,female
+47,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,World,WLD,2016,12.1999378767396,female
+48,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Afghanistan,AFG,2016,15.3,female
+49,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Albania,ALB,2016,0.1,female
+50,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Algeria,DZA,2016,2.0,female
+51,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Angola,AGO,2016,45.2,female
+52,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Antigua and Barbuda,ATG,2016,0.1,female
+53,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Argentina,ARG,2016,0.4,female
+54,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Armenia,ARM,2016,0.2,female
+55,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Australia,AUS,2016,0.1,female
+56,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Austria,AUT,2016,0.2,female
+57,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Azerbaijan,AZE,2016,1.0,female
+58,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,"Bahamas, The",BHS,2016,0.1,female
+59,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Bahrain,BHR,2016,0.1,female
+60,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Bangladesh,BGD,2016,13.8,female
+61,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Barbados,BRB,2016,0.2,female
+62,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Belarus,BLR,2016,0.1,female
+63,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Belgium,BEL,2016,0.4,female
+64,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Belize,BLZ,2016,0.9,female
+65,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Benin,BEN,2016,54.4,female
+66,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Bhutan,BTN,2016,4.6,female
+67,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Bolivia,BOL,2016,4.9,female
+68,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Bosnia and Herzegovina,BIH,2016,0.1,female
+69,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Botswana,BWA,2016,12.3,female
+70,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Brazil,BRA,2016,1.1,female
+71,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Brunei Darussalam,BRN,2016,0.1,female
+72,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Bulgaria,BGR,2016,0.1,female
+73,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Burkina Faso,BFA,2016,53.7,female
+74,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Burundi,BDI,2016,66.8,female
+75,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Cabo Verde,CPV,2016,4.0,female
+76,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Cambodia,KHM,2016,6.3,female
+77,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Cameroon,CMR,2016,44.1,female
+78,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Canada,CAN,2016,0.4,female
+79,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Central African Republic,CAF,2016,74.7,female
+80,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Chad,TCD,2016,95.0,female
+81,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Chile,CHL,2016,0.2,female
+82,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,China,CHN,2016,0.7,female
+83,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Colombia,COL,2016,0.8,female
+84,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Comoros,COM,2016,50.3,female
+85,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,"Congo, Dem. Rep.",COD,2016,49.8,female
+86,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,"Congo, Rep.",COG,2016,33.9,female
+87,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Costa Rica,CRI,2016,1.0,female
+88,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Cote d'Ivoire,CIV,2016,44.7,female
+89,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Croatia,HRV,2016,0.1,female
+90,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Cuba,CUB,2016,1.0,female
+91,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Cyprus,CYP,2016,0.3,female
+92,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Czechia,CZE,2016,0.2,female
+93,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Denmark,DNK,2016,0.4,female
+94,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Djibouti,DJI,2016,33.2,female
+95,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Dominican Republic,DOM,2016,2.2,female
+96,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Ecuador,ECU,2016,0.7,female
+97,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,"Egypt, Arab Rep.",EGY,2016,2.2,female
+98,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,El Salvador,SLV,2016,1.6,female
+99,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Equatorial Guinea,GNQ,2016,23.9,female
+100,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Eritrea,ERI,2016,43.5,female
+101,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Estonia,EST,2016,0.1,female
+102,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Eswatini,SWZ,2016,29.8,female
+103,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Ethiopia,ETH,2016,40.8,female
+104,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Fiji,FJI,2016,2.2,female
+105,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Finland,FIN,2016,0.1,female
+106,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,France,FRA,2016,0.3,female
+107,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Gabon,GAB,2016,18.6,female
+108,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,"Gambia, The",GMB,2016,28.4,female
+109,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Georgia,GEO,2016,0.2,female
+110,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Germany,DEU,2016,0.7,female
+111,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Ghana,GHA,2016,19.4,female
+112,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Greece,GRC,2016,0.1,female
+113,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Grenada,GRD,2016,0.1,female
+114,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Guatemala,GTM,2016,6.0,female
+115,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Guinea,GIN,2016,41.0,female
+116,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Guinea-Bissau,GNB,2016,33.0,female
+117,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Guyana,GUY,2016,3.2,female
+118,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Haiti,HTI,2016,20.1,female
+119,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Honduras,HND,2016,3.8,female
+120,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Hungary,HUN,2016,0.3,female
+121,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Iceland,ISL,2016,0.1,female
+122,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,India,IND,2016,21.5,female
+123,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Indonesia,IDN,2016,7.8,female
+124,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,"Iran, Islamic Rep.",IRN,2016,1.0,female
+125,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Iraq,IRQ,2016,2.3,female
+126,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Ireland,IRL,2016,0.1,female
+127,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Israel,ISR,2016,0.3,female
+128,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Italy,ITA,2016,0.2,female
+129,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Jamaica,JAM,2016,0.6,female
+130,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Japan,JPN,2016,0.2,female
+131,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Jordan,JOR,2016,0.8,female
+132,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Kazakhstan,KAZ,2016,0.4,female
+133,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Kenya,KEN,2016,49.7,female
+134,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Kiribati,KIR,2016,19.7,female
+135,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,"Korea, Dem. People's Rep.",PRK,2016,1.1,female
+136,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,"Korea, Rep.",KOR,2016,2.2,female
+137,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Kuwait,KWT,2016,0.1,female
+138,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Kyrgyz Republic,KGZ,2016,0.7,female
+139,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Lao PDR,LAO,2016,11.4,female
+140,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Latvia,LVA,2016,0.1,female
+141,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Lebanon,LBN,2016,0.9,female
+142,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Lesotho,LSO,2016,49.8,female
+143,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Liberia,LBR,2016,39.5,female
+144,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Libya,LBY,2016,0.7,female
+145,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Lithuania,LTU,2016,0.1,female
+146,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Luxembourg,LUX,2016,0.1,female
+147,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Madagascar,MDG,2016,29.7,female
+148,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Malawi,MWI,2016,27.5,female
+149,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Malaysia,MYS,2016,0.5,female
+150,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Maldives,MDV,2016,0.2,female
+151,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Mali,MLI,2016,71.1,female
+152,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Malta,MLT,2016,0.1,female
+153,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Mauritania,MRT,2016,36.5,female
+154,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Mauritius,MUS,2016,0.4,female
+155,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Mexico,MEX,2016,1.1,female
+156,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,"Micronesia, Fed. Sts.",FSM,2016,3.7,female
+157,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Moldova,MDA,2016,0.1,female
+158,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Mongolia,MNG,2016,0.8,female
+159,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Montenegro,MNE,2016,0.1,female
+160,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Morocco,MAR,2016,2.0,female
+161,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Mozambique,MOZ,2016,27.1,female
+162,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Myanmar,MMR,2016,12.2,female
+163,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Namibia,NAM,2016,18.3,female
+164,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Nepal,NPL,2016,24.4,female
+165,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Netherlands,NLD,2016,0.3,female
+166,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,New Zealand,NZL,2016,0.2,female
+167,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Nicaragua,NIC,2016,2.0,female
+168,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Niger,NER,2016,66.9,female
+169,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Nigeria,NGA,2016,65.6,female
+170,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,North Macedonia,MKD,2016,0.1,female
+171,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Norway,NOR,2016,0.3,female
+172,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Oman,OMN,2016,0.1,female
+173,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Pakistan,PAK,2016,23.4,female
+174,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Panama,PAN,2016,1.7,female
+175,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Papua New Guinea,PNG,2016,18.1,female
+176,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Paraguay,PRY,2016,1.5,female
+177,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Peru,PER,2016,1.2,female
+178,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Philippines,PHL,2016,3.6,female
+179,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Poland,POL,2016,0.1,female
+180,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Portugal,PRT,2016,0.2,female
+181,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Qatar,QAT,2016,0.1,female
+182,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Romania,ROU,2016,0.4,female
+183,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Russian Federation,RUS,2016,0.1,female
+184,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Rwanda,RWA,2016,19.5,female
+185,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Samoa,WSM,2016,1.5,female
+186,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Sao Tome and Principe,STP,2016,11.7,female
+187,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Saudi Arabia,SAU,2016,0.1,female
+188,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Senegal,SEN,2016,21.9,female
+189,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Serbia,SRB,2016,0.9,female
+190,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Seychelles,SYC,2016,0.1,female
+191,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Sierra Leone,SLE,2016,75.8,female
+192,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Singapore,SGP,2016,0.1,female
+193,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Slovak Republic,SVK,2016,0.1,female
+194,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Slovenia,SVN,2016,0.1,female
+195,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Solomon Islands,SLB,2016,5.5,female
+196,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Somalia,SOM,2016,89.7,female
+197,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,South Africa,ZAF,2016,13.4,female
+198,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,South Sudan,SSD,2016,60.7,female
+199,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Spain,ESP,2016,0.2,female
+200,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Sri Lanka,LKA,2016,1.2,female
+201,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,St. Lucia,LCA,2016,0.3,female
+202,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,St. Vincent and the Grenadines,VCT,2016,1.3,female
+203,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Sudan,SDN,2016,18.3,female
+204,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Suriname,SUR,2016,2.0,female
+205,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Sweden,SWE,2016,0.3,female
+206,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Switzerland,CHE,2016,0.2,female
+207,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Syrian Arab Republic,SYR,2016,4.1,female
+208,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Tajikistan,TJK,2016,2.4,female
+209,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Tanzania,TZA,2016,40.6,female
+210,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Thailand,THA,2016,3.4,female
+211,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Timor-Leste,TLS,2016,9.8,female
+212,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Togo,TGO,2016,41.1,female
+213,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Tonga,TON,2016,2.0,female
+214,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Trinidad and Tobago,TTO,2016,0.1,female
+215,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Tunisia,TUN,2016,1.2,female
+216,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Turkiye,TUR,2016,0.3,female
+217,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Turkmenistan,TKM,2016,3.5,female
+218,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Uganda,UGA,2016,30.4,female
+219,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Ukraine,UKR,2016,0.2,female
+220,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,United Arab Emirates,ARE,2016,0.1,female
+221,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,United Kingdom,GBR,2016,0.2,female
+222,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,United States,USA,2016,0.3,female
+223,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Uruguay,URY,2016,0.4,female
+224,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Uzbekistan,UZB,2016,0.4,female
+225,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Vanuatu,VUT,2016,8.6,female
+226,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,"Venezuela, RB",VEN,2016,1.4,female
+227,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Vietnam,VNM,2016,1.1,female
+228,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,"Yemen, Rep.",YEM,2016,11.8,female
+229,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Zambia,ZMB,2016,33.2,female
+230,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, female (per 100,000 female population)",SH.STA.WASH.FE.P5,Zimbabwe,ZWE,2016,22.2,female
+231,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Africa Eastern and Southern,AFE,2016,41.6428446680771,male
+232,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Africa Western and Central,AFW,2016,61.024717497378,male
+233,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Arab World,ARB,2016,6.74449939051674,male
+234,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Caribbean small states,CSS,2016,1.04283686188541,male
+235,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Central Europe and the Baltics,CEB,2016,0.147726140851681,male
+236,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,EAR,EAR,2016,12.0523137659244,male
+237,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,East Asia & Pacific,EAS,2016,1.94720422031235,male
+238,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,East Asia & Pacific (excluding high income),EAP,2016,2.10018836661344,male
+239,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,East Asia & Pacific (IDA & IBRD),TEA,2016,2.10621040107861,male
+240,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Euro area,EMU,2016,0.226190491335559,male
+241,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Europe & Central Asia,ECS,2016,0.283924568685777,male
+242,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Europe & Central Asia (excluding high income),ECA,2016,0.401566199635682,male
+243,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Europe & Central Asia (IDA & IBRD),TEC,2016,0.368907964953074,male
+244,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,European Union,EUU,2016,0.211064078479044,male
+245,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Fragile and conflict affected situations,FCS,2016,42.8639848167725,male
+246,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Heavily indebted poor countries (HIPC),HPC,2016,43.2099327778475,male
+247,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,High income,HIC,2016,0.243792576993595,male
+248,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,IBRD only,IBD,2016,6.12420441710002,male
+249,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,IDA & IBRD total,IBT,2016,13.4262547649289,male
+250,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,IDA blend,IDB,2016,39.5904014915138,male
+251,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,IDA only,IDX,2016,32.7469773536232,male
+252,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,IDA total,IDA,2016,35.0543148140654,male
+253,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,LTE,LTE,2016,0.713440039068356,male
+254,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Latin America & Caribbean,LCN,2016,1.71666768665066,male
+255,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Latin America & Caribbean (excluding high income),LAC,2016,1.79142889091152,male
+256,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Latin America & Caribbean (IDA & IBRD),TLA,2016,1.73181756285609,male
+257,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Least developed countries: UN classification,LDC,2016,35.5906191638271,male
+258,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,LMY,LMY,2016,13.5980700826251,male
+259,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Low income,LIC,2016,42.5867513895858,male
+260,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Lower middle income,LMC,2016,18.6396917849349,male
+261,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Middle East & North Africa,MEA,2016,2.00689402337417,male
+262,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Middle East & North Africa (excluding high income),MNA,2016,2.38429982308032,male
+263,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Middle East & North Africa (IDA & IBRD),TMN,2016,2.38429982308032,male
+264,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,MIC,MIC,2016,10.5617694240303,male
+265,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,North America,NAC,2016,0.21007918645759,male
+266,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,OECD members,OED,2016,0.333240222670733,male
+267,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Other small states,OSS,2016,15.2446982107096,male
+268,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Pacific island small states,PSS,2016,5.60350934163218,male
+269,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,PST,PST,2016,0.257523091812026,male
+270,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,PRE,PRE,2016,50.8320796656046,male
+271,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Small states,SST,2016,12.2612044686242,male
+272,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,South Asia,SAS,2016,15.1598036289661,male
+273,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,South Asia (IDA & IBRD),TSA,2016,15.1598036289661,male
+274,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Sub-Saharan Africa,SSF,2016,49.5640407585161,male
+275,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Sub-Saharan Africa (excluding high income),SSA,2016,49.5687862242751,male
+276,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Sub-Saharan Africa (IDA & IBRD),TSS,2016,49.5640407585161,male
+277,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Upper middle income,UMC,2016,1.62108172049841,male
+278,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,World,WLD,2016,11.4532284354895,male
+279,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Afghanistan,AFG,2016,12.6,male
+280,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Albania,ALB,2016,0.2,male
+281,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Algeria,DZA,2016,1.7,male
+282,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Angola,AGO,2016,52.6,male
+283,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Antigua and Barbuda,ATG,2016,0.1,male
+284,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Argentina,ARG,2016,0.3,male
+285,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Armenia,ARM,2016,0.2,male
+286,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Australia,AUS,2016,0.1,male
+287,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Austria,AUT,2016,0.1,male
+288,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Azerbaijan,AZE,2016,1.3,male
+289,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,"Bahamas, The",BHS,2016,0.1,male
+290,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Bahrain,BHR,2016,0.1,male
+291,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Bangladesh,BGD,2016,10.1,male
+292,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Barbados,BRB,2016,0.1,male
+293,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Belarus,BLR,2016,0.1,male
+294,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Belgium,BEL,2016,0.2,male
+295,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Belize,BLZ,2016,1.0,male
+296,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Benin,BEN,2016,65.1,male
+297,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Bhutan,BTN,2016,3.4,male
+298,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Bolivia,BOL,2016,6.2,male
+299,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Bosnia and Herzegovina,BIH,2016,0.1,male
+300,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Botswana,BWA,2016,11.2,male
+301,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Brazil,BRA,2016,1.0,male
+302,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Brunei Darussalam,BRN,2016,0.1,male
+303,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Bulgaria,BGR,2016,0.1,male
+304,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Burkina Faso,BFA,2016,45.5,male
+305,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Burundi,BDI,2016,64.0,male
+306,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Cabo Verde,CPV,2016,4.3,male
+307,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Cambodia,KHM,2016,6.6,male
+308,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Cameroon,CMR,2016,46.2,male
+309,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Canada,CAN,2016,0.3,male
+310,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Central African Republic,CAF,2016,89.7,male
+311,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Chad,TCD,2016,107.0,male
+312,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Chile,CHL,2016,0.2,male
+313,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,China,CHN,2016,0.5,male
+314,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Colombia,COL,2016,0.7,male
+315,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Comoros,COM,2016,51.1,male
+316,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,"Congo, Dem. Rep.",COD,2016,69.8,male
+317,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,"Congo, Rep.",COG,2016,43.5,male
+318,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Costa Rica,CRI,2016,0.7,male
+319,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Cote d'Ivoire,CIV,2016,49.5,male
+320,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Croatia,HRV,2016,0.1,male
+321,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Cuba,CUB,2016,1.0,male
+322,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Cyprus,CYP,2016,0.3,male
+323,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Czechia,CZE,2016,0.1,male
+324,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Denmark,DNK,2016,0.2,male
+325,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Djibouti,DJI,2016,29.4,male
+326,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Dominican Republic,DOM,2016,2.2,male
+327,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Ecuador,ECU,2016,0.6,male
+328,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,"Egypt, Arab Rep.",EGY,2016,1.8,male
+329,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,El Salvador,SLV,2016,2.4,male
+330,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Equatorial Guinea,GNQ,2016,21.0,male
+331,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Eritrea,ERI,2016,47.6,male
+332,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Estonia,EST,2016,0.1,male
+333,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Eswatini,SWZ,2016,25.9,male
+334,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Ethiopia,ETH,2016,46.5,male
+335,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Fiji,FJI,2016,3.5,male
+336,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Finland,FIN,2016,0.1,male
+337,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,France,FRA,2016,0.2,male
+338,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Gabon,GAB,2016,22.5,male
+339,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,"Gambia, The",GMB,2016,30.9,male
+340,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Georgia,GEO,2016,0.2,male
+341,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Germany,DEU,2016,0.5,male
+342,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Ghana,GHA,2016,18.2,male
+343,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Greece,GRC,2016,0.1,male
+344,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Grenada,GRD,2016,0.7,male
+345,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Guatemala,GTM,2016,6.6,male
+346,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Guinea,GIN,2016,48.3,male
+347,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Guinea-Bissau,GNB,2016,37.7,male
+348,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Guyana,GUY,2016,4.1,male
+349,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Haiti,HTI,2016,27.5,male
+350,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Honduras,HND,2016,3.4,male
+351,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Hungary,HUN,2016,0.2,male
+352,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Iceland,ISL,2016,0.1,male
+353,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,India,IND,2016,15.9,male
+354,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Indonesia,IDN,2016,6.3,male
+355,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,"Iran, Islamic Rep.",IRN,2016,1.0,male
+356,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Iraq,IRQ,2016,3.8,male
+357,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Ireland,IRL,2016,0.1,male
+358,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Israel,ISR,2016,0.2,male
+359,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Italy,ITA,2016,0.1,male
+360,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Jamaica,JAM,2016,0.7,male
+361,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Japan,JPN,2016,0.1,male
+362,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Jordan,JOR,2016,0.5,male
+363,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Kazakhstan,KAZ,2016,0.4,male
+364,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Kenya,KEN,2016,52.6,male
+365,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Kiribati,KIR,2016,13.5,male
+366,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,"Korea, Dem. People's Rep.",PRK,2016,1.6,male
+367,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,"Korea, Rep.",KOR,2016,1.4,male
+368,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Kuwait,KWT,2016,0.1,male
+369,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Kyrgyz Republic,KGZ,2016,0.8,male
+370,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Lao PDR,LAO,2016,11.2,male
+371,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Latvia,LVA,2016,0.1,male
+372,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Lebanon,LBN,2016,0.7,male
+373,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Lesotho,LSO,2016,38.6,male
+374,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Liberia,LBR,2016,43.5,male
+375,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Libya,LBY,2016,0.5,male
+376,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Lithuania,LTU,2016,0.1,male
+377,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Luxembourg,LUX,2016,0.1,male
+378,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Madagascar,MDG,2016,30.8,male
+379,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Malawi,MWI,2016,29.1,male
+380,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Malaysia,MYS,2016,0.4,male
+381,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Maldives,MDV,2016,0.4,male
+382,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Mali,MLI,2016,70.4,male
+383,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Malta,MLT,2016,0.1,male
+384,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Mauritania,MRT,2016,40.7,male
+385,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Mauritius,MUS,2016,0.7,male
+386,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Mexico,MEX,2016,1.0,male
+387,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,"Micronesia, Fed. Sts.",FSM,2016,3.4,male
+388,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Moldova,MDA,2016,0.1,male
+389,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Mongolia,MNG,2016,1.8,male
+390,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Montenegro,MNE,2016,0.1,male
+391,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Morocco,MAR,2016,1.8,male
+392,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Mozambique,MOZ,2016,28.2,male
+393,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Myanmar,MMR,2016,13.1,male
+394,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Namibia,NAM,2016,18.4,male
+395,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Nepal,NPL,2016,14.9,male
+396,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Netherlands,NLD,2016,0.2,male
+397,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,New Zealand,NZL,2016,0.1,male
+398,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Nicaragua,NIC,2016,2.4,male
+399,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Niger,NER,2016,74.7,male
+400,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Nigeria,NGA,2016,71.6,male
+401,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,North Macedonia,MKD,2016,0.1,male
+402,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Norway,NOR,2016,0.2,male
+403,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Oman,OMN,2016,0.1,male
+404,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Pakistan,PAK,2016,16.0,male
+405,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Panama,PAN,2016,2.1,male
+406,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Papua New Guinea,PNG,2016,14.6,male
+407,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Paraguay,PRY,2016,1.4,male
+408,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Peru,PER,2016,1.3,male
+409,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Philippines,PHL,2016,4.8,male
+410,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Poland,POL,2016,0.1,male
+411,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Portugal,PRT,2016,0.1,male
+412,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Qatar,QAT,2016,0.1,male
+413,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Romania,ROU,2016,0.3,male
+414,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Russian Federation,RUS,2016,0.1,male
+415,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Rwanda,RWA,2016,19.2,male
+416,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Samoa,WSM,2016,1.5,male
+417,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Sao Tome and Principe,STP,2016,11.0,male
+418,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Saudi Arabia,SAU,2016,0.1,male
+419,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Senegal,SEN,2016,25.9,male
+420,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Serbia,SRB,2016,0.6,male
+421,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Seychelles,SYC,2016,0.2,male
+422,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Sierra Leone,SLE,2016,86.8,male
+423,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Singapore,SGP,2016,0.1,male
+424,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Slovak Republic,SVK,2016,0.1,male
+425,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Slovenia,SVN,2016,0.1,male
+426,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Solomon Islands,SLB,2016,6.8,male
+427,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Somalia,SOM,2016,83.4,male
+428,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,South Africa,ZAF,2016,13.9,male
+429,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,South Sudan,SSD,2016,65.9,male
+430,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Spain,ESP,2016,0.1,male
+431,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Sri Lanka,LKA,2016,1.2,male
+432,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,St. Lucia,LCA,2016,1.0,male
+433,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,St. Vincent and the Grenadines,VCT,2016,1.4,male
+434,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Sudan,SDN,2016,16.3,male
+435,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Suriname,SUR,2016,2.1,male
+436,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Sweden,SWE,2016,0.2,male
+437,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Switzerland,CHE,2016,0.1,male
+438,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Syrian Arab Republic,SYR,2016,3.2,male
+439,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Tajikistan,TJK,2016,3.0,male
+440,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Tanzania,TZA,2016,36.2,male
+441,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Thailand,THA,2016,3.7,male
+442,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Timor-Leste,TLS,2016,10.0,male
+443,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Togo,TGO,2016,42.1,male
+444,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Tonga,TON,2016,0.8,male
+445,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Trinidad and Tobago,TTO,2016,0.2,male
+446,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Tunisia,TUN,2016,0.8,male
+447,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Turkiye,TUR,2016,0.3,male
+448,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Turkmenistan,TKM,2016,4.5,male
+449,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Uganda,UGA,2016,32.7,male
+450,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Ukraine,UKR,2016,0.3,male
+451,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,United Arab Emirates,ARE,2016,0.1,male
+452,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,United Kingdom,GBR,2016,0.1,male
+453,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,United States,USA,2016,0.2,male
+454,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Uruguay,URY,2016,0.3,male
+455,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Uzbekistan,UZB,2016,0.5,male
+456,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Vanuatu,VUT,2016,12.2,male
+457,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,"Venezuela, RB",VEN,2016,1.4,male
+458,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Vietnam,VNM,2016,2.1,male
+459,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,"Yemen, Rep.",YEM,2016,8.7,male
+460,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Zambia,ZMB,2016,36.6,male
+461,"Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene, male (per 100,000 male population)",SH.STA.WASH.MA.P5,Zimbabwe,ZWE,2016,27.1,male
