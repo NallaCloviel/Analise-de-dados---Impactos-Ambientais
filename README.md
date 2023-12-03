@@ -8,7 +8,7 @@ Aluna: Nargylla Cloviel
 
 #### Contexto:
 "Desigualdade ambiental" é um termo dentro das Ciências Sociais que se refere "a exposição diferenciada de indíviduos ou 
-grupos sociais a riscos ambientais", ou seja, refere-se a ideia de que existem grupos sociais quesofrem mais com impactos ambientais do que outros. Ainda que países mais desenvolvidos sejam os maiores causadores de poluição, ao emitirem constantemente gases de 
+grupos sociais a riscos ambientais", ou seja, refere-se a ideia de que existem grupos sociais que sofrem mais com impactos ambientais do que outros. Ainda que países mais desenvolvidos sejam os maiores causadores de poluição, ao emitirem constantemente gases de 
 Efeito Estufa, os países menos desenvolvidos sofrem maior impacto, sobretudo, por não terem recursos suficientes para mitigar os efeitos. A área de foco da análise é a África Subsaariana, uma região diversificada que inclui vários países com diferentes níveis 
 de desenvolvimento econômico e social. Porém, muitos países nesta região enfrentam desafios relacionados à pobreza, infraestrutura limitada, acesso limitado à educação e serviços de saúde. Por isso, será analisado como as mulheres dessa região lidam com problemas 
 ambientais e as consequências deles. 
