@@ -45,10 +45,6 @@ Linguagem python e suas bibliotecas e Tableu public.
 
 ##### DUARTE, Karina Andrade. Desigualdade Ambiental; Recicla.se. Disponível em: <https://recicla.se/recicle/desigualdade-ambiental/>. Acesso em 30 de outubro de 2023.
 
-<p align="center">
-<img src= "https://scitechdaily.com/images/Neuroscience.gif" width="50%" height="30%"/>
-</p>
-
 
 
 
