@@ -5,6 +5,10 @@ Aluna: Nargylla Cloviel
 ## EcoLens: revelando disparidades ambientais
 
 ### Tema: Impactos ambientais e como eles afetam mulheres da África subsariana.
+<p align="center">
+ <img style="border-radius: 50%;" src = "https://img.freepik.com/premium-vector/set-abstract-african-american-woman-portraits-isolated-white_87523-3.jpg" width="700px;" alt="Foto de Perfil de Nargylla Cloviel"/>
+</p>
+
 - [Contexto](#-Contexto)
 - [Visualização do projeto](#-Visualização-do-projeto)
 - [Base de dados escolhidas](#-Base-de-dados-escolhidas)
