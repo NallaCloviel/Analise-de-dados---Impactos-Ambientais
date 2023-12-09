@@ -32,13 +32,13 @@ dos problemas para que soluçõe sejam propostas.
 ### Bases de dados escolhidas
 As bases de dados escolhidas foram retiradas das plataformas OECD Stats, FAO, World Bank e Kaggle. Seus títulos são:
 
-- Imigrantes por sexo e idade: https://stats.oecd.org/Index.aspx?DataSetCode=DIOC_SEX_AGE#
-- Todos os desastres naturais 1900 - 2021 (EOSDIS): https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis
-- Classificação de mortalidade atribuída a falta de água potável, segurança sanitária e higiene: https://genderdata.worldbank.org/indicators/sh-sta-wash-p5/
-- Emprego na agricultura, mulheres (% de mulheres empregadas): https://data.worldbank.org/indicator/SL.AGR.EMPL.FE.ZS
-- Terra agrícola (% da área territoral): https://data.worldbank.org/indicator/AG.LND.AGRI.ZS?end=2021&start=1961&view=chart&year=2020
-- Captações anuais de água doce, domésticas (% da retirada total de água doce): https://data.worldbank.org/indicator/ER.H2O.FWDM.ZS
-- Nível de Estresse hídrico: https://data.apps.fao.org/catalog/dataset/40bc32f6-1467-44ac-8f7c-3d67cbb1cbd7/resource/bbf086ec-4450-4b53-bf77-58035fa7ddd9
+- [Imigrantes por sexo e idade](https://stats.oecd.org/Index.aspx?DataSetCode=DIOC_SEX_AGE#)
+- [Todos os desastres naturais 1900 - 2021 (EOSDIS)](https://www.kaggle.com/datasets/brsdincer/all-natural-disasters-19002021-eosdis)
+- [Classificação de mortalidade atribuída a falta de água potável, segurança sanitária e higiene](https://genderdata.worldbank.org/indicators/sh-sta-wash-p5/)
+- [Emprego na agricultura, mulheres (% de mulheres empregadas)](https://data.worldbank.org/indicator/SL.AGR.EMPL.FE.ZS)
+- [Terra agrícola (% da área territoral)](https://data.worldbank.org/indicator/AG.LND.AGRI.ZS?end=2021&start=1961&view=chart&year=2020)
+- [Captações anuais de água doce, domésticas (% da retirada total de água doce)](https://data.worldbank.org/indicator/ER.H2O.FWDM.ZS)
+- [Nível de Estresse hídrico](https://data.apps.fao.org/catalog/dataset/40bc32f6-1467-44ac-8f7c-3d67cbb1cbd7/resource/bbf086ec-4450-4b53-bf77-58035fa7ddd9)
 
 ##### Observação: Ainda que seja um tema de grande importância, não foi possível encontrar uma ou duas bases de dados que dessem uma noção real do problema, sendo necessário o uso de várias. Os dados passaram por uma limpeza inicial para a separação das colunas relevantes e foi feita a junção para gerar um número reduzido de bases de dados finais.
 
