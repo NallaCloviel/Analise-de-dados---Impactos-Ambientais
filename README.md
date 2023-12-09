@@ -5,17 +5,27 @@ Aluna: Nargylla Cloviel
 ## EcoLens: revelando disparidades ambientais
 
 ### Tema: Impactos ambientais e como eles afetam mulheres da África subsariana.
+- [Contexto](#-Contexto)
+- [Visualização do projeto](#-Visualização-do-projeto)
+- [Base de dados escolhidas](#-Base-de-dados-escolhidas)
+- [Objetivos Gerais](#-Objetivos-gerais)
+- [ODS relacionadas](#-ODS-relacionadas)
+- [🙋🏾‍♀️ Sobre mim](#-Sobre-mim)
 
-#### Contexto:
+
+### Contexto:
 "Desigualdade ambiental" é um termo dentro das Ciências Sociais que se refere "a exposição diferenciada de indíviduos ou 
 grupos sociais a riscos ambientais", ou seja, refere-se a ideia de que existem grupos sociais que sofrem mais com impactos ambientais do que outros. Ainda que países mais desenvolvidos sejam os maiores causadores de poluição, ao emitirem constantemente gases de 
 Efeito Estufa, os países menos desenvolvidos sofrem maior impacto, sobretudo, por não terem recursos suficientes para mitigar os efeitos. A área de foco da análise é a África Subsaariana, uma região diversificada que inclui vários países com diferentes níveis 
 de desenvolvimento econômico e social. Porém, muitos países nesta região enfrentam desafios relacionados à pobreza, infraestrutura limitada, acesso limitado à educação e serviços de saúde. Por isso, será analisado como as mulheres dessa região lidam com problemas 
 ambientais e as consequências deles. 
-Contudo, é importante ressaltar que a análise de dados não serve para perpetuar a imagem de miséria atribuída ao continente africano devido aos seus problemas estruturais resultado de anos de colonialismo; mas sim auxiliar na vizualição
+Contudo, é importante ressaltar que a análise de dados não serve para perpetuar a imagem de miséria atribuída ao continente africano devido aos seus problemas estruturais resultado de anos de colonialismo; mas sim auxiliar na visualização
 dos problemas para que soluçõe sejam propostas. 
 
-#### Bases de dados escolhidas
+### Visualização do projeto:
+[Clique aqui para visitar a visualização do projeto](https://public.tableau.com/views/EcoLensrevelandodisparidadesambientais/Histria1?:language=pt-BR&:display_count=n&:origin=viz_share_link
+)
+### Bases de dados escolhidas
 As bases de dados escolhidas foram retiradas das plataformas OECD Stats, FAO, World Bank e Kaggle. Seus títulos são:
 
 - Imigrantes por sexo e idade: https://stats.oecd.org/Index.aspx?DataSetCode=DIOC_SEX_AGE#
@@ -28,22 +38,36 @@ As bases de dados escolhidas foram retiradas das plataformas OECD Stats, FAO, Wo
 
 ##### Observação: Ainda que seja um tema de grande importância, não foi possível encontrar uma ou duas bases de dados que dessem uma noção real do problema, sendo necessário o uso de várias. Os dados passaram por uma limpeza inicial para a separação das colunas relevantes e foi feita a junção para gerar um número reduzido de bases de dados finais.
 
-#### Objetivos gerais:
+### Objetivos gerais:
 Investigar como os impactos afetam as mulheres na África Subsaariana nas áreas relacionadas a acesso a terra, água limpa, emprego no setor agrícola e outros indicadores.
 
-#### Objetivos específicos
-- Verificar o tipo de desastres natural que mais ocorreu nos países da região escolhida.
-- Investigar o impacto causado em mulheres que trabalham na área agrícula, verificando a % de terras agrárias em relação a % de mulheres empregadas e analisando se existe relação com o nível de estresse hidríco de cada país.
-- Analisar o acesso a água potável e sua relação com a mortalidade por agua insalubre no mesmo país.
-- Investigar os países que ocorrem mais emigrações de mulheres e se há relação com essas desigualdades ambientais sofridas.
+### ODS relacionadas:
+<p align="center">
+  <img style="border-radius: 50%;" src="https://www.estrategiaods.org.br/wp-content/uploads/2021/10/ODS13-1.jpg" width="100px;" alt="ODS 13"/> 
+  <img style="border-radius: 50%;" src = "https://www.estrategiaods.org.br/wp-content/uploads/2021/10/ODS10-1.jpg" width="100px;" alt="ODS 10"/> 
+</p>
 
-#### Ferramentas utilizadas
-Linguagem python e suas bibliotecas e Tableu public.
 
-##### Referências
-##### Ecodebate. Racismo Ambiental: as consequências da desigualdade socialmbiental para comunidades marginalizadas; CEE FioCruz. Disponível em: https://cee.fiocruz.br/?q=racismo-ambiental-as-consequencias-da-desigualdade-socioambiental-para-as-comunidades- marginalizadas>. Acesso em 30de outubro de 2023.
+### Ferramentas utilizadas
+Linguagem python e suas bibliotecas:pandas, numpy e matplot.lib; e Tableu public.
 
-##### DUARTE, Karina Andrade. Desigualdade Ambiental; Recicla.se. Disponível em: <https://recicla.se/recicle/desigualdade-ambiental/>. Acesso em 30 de outubro de 2023.
+### Sobre mim:
+<br>
+
+<p align="center">
+<a>
+ <img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/D4D03AQFNp2zFJkSLSQ/profile-displayphoto-shrink_800_800/0/1677091345413?e=2147483647&v=beta&t=hQMvWS21OLLiq5k3i7JDYJYDKSkmLakbe7RkSuAmytE" width="100px;" alt="Foto de Perfil de Nargylla Cloviel"/>
+ <br/>
+</a>
+</p>
+
+<p align="center"> Desenvolvido por <a href="https://www.linkedin.com/in/nargylla-cl](https://www.linkedin.com/in/nargylla-cloviel/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/84551213/171416454-ab93ab7f-e5a0-4276-81ec-4f5cb79dff31.png" alt="logo da reprograma" border="0" width = "200" /> <p align="center"></p>
+
+
 
 
 
